@@ -28,7 +28,7 @@ body {
   object-fit: cover;
 }
 .container i {
-  color: #fff;
+  color: red;
   font-size: 80px;
   position: absolute;
   top: 50%;
